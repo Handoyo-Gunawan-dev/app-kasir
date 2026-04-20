@@ -1,14 +1,8 @@
 [
     {
         "id": 1,
-        "produk": "Beras",
-        "qty": 2,
-        "harga": 10000
-    },
-    {
-        "id": 2,
-        "produk": "Minyak",
-        "qty": 1,
-        "harga": 15000
+        "produk": "buku",
+        "qty": 5,
+        "harga": 6
     }
 ]
